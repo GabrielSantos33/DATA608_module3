@@ -17,6 +17,9 @@ library(shiny)
 ```
 
 
+Shiny link:
+https://dx1o1j-gabriel-santos.shinyapps.io/DATA608_module3/
+
 ```{r}
 data <- read.csv('https://raw.githubusercontent.com/charleyferrari/CUNY_DATA_608/master/module3/data/cleaned-cdc-mortality-1999-2010-2.csv')
 ```
